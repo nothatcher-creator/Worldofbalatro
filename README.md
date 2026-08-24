@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo.png" alt="World of Balatro" width="760">
+  <img src="docs/assets/logo.webp" alt="World of Balatro" width="760">
 </p>
 
 <p align="center">
@@ -39,9 +39,9 @@ The visible mod name is **World of Balatro**. The internal folder and mod ID rem
 ## Campaign
 
 <p align="center">
-  <img src="docs/assets/elwynn.png" alt="Elwynn Forest" width="31%">
-  <img src="docs/assets/westfall.png" alt="Westfall" width="31%">
-  <img src="docs/assets/deadmines.png" alt="The Deadmines" width="31%">
+  <img src="docs/assets/elwynn.webp" alt="Elwynn Forest" width="31%">
+  <img src="docs/assets/westfall.webp" alt="Westfall" width="31%">
+  <img src="docs/assets/deadmines.webp" alt="The Deadmines" width="31%">
 </p>
 
 The opening adventure follows a three-chapter campaign:
@@ -83,8 +83,8 @@ The Auction House is triggered through an **Auction House Tag**.
 ## Character UI
 
 <p align="center">
-  <img src="docs/assets/character.png" alt="Character panel" width="42%">
-  <img src="docs/assets/bag.png" alt="Bag panel" width="50%">
+  <img src="docs/assets/character.webp" alt="Character panel" width="42%">
+  <img src="docs/assets/bag.webp" alt="Bag panel" width="50%">
 </p>
 
 The RPG UI is separated from the normal Balatro playfield:
